@@ -1,0 +1,4 @@
+2024-01-30 18:00:33.8708|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'NLogExampleProject.Controllers.HomeController.Process (NLogExampleProject)'
+2024-01-30 18:00:34.2674|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'NLogExampleProject.Controllers.HomeController.Process (NLogExampleProject)'
+2024-01-30 18:57:25.6250|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'NLogExampleProject.Controllers.HomeController.Process (NLogExampleProject)'
+2024-01-30 18:57:27.0910|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'NLogExampleProject.Controllers.HomeController.Process (NLogExampleProject)'

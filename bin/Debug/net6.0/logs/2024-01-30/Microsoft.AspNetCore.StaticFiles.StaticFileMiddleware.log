@@ -1,0 +1,23 @@
+2024-01-30 16:51:20.9326|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 16:53:39.1509|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\User\Desktop\RNET103\Labs\NLogExampleProject\wwwroot\js\site.js'
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/NLogExampleProject.styles.css'. Physical path: 'C:\Users\User\Desktop\RNET103\Labs\NLogExampleProject\obj\Debug\net6.0\scopedcss\bundle\NLogExampleProject.styles.css'
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\User\Desktop\RNET103\Labs\NLogExampleProject\wwwroot\css\site.css'
+2024-01-30 16:53:39.8994|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\User\Desktop\RNET103\Labs\NLogExampleProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2024-01-30 16:53:39.8994|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\User\Desktop\RNET103\Labs\NLogExampleProject\wwwroot\lib\jquery\dist\jquery.min.js'
+2024-01-30 16:53:39.9618|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\User\Desktop\RNET103\Labs\NLogExampleProject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2024-01-30 16:53:40.5876|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\User\Desktop\RNET103\Labs\NLogExampleProject\wwwroot\favicon.ico'
+2024-01-30 16:54:31.5405|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 16:59:31.9827|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 16:59:32.7438|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /NLogExampleProject.styles.css was not modified
+2024-01-30 16:59:32.7438|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /NLogExampleProject.styles.css
+2024-01-30 17:05:57.8536|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 17:05:58.6990|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /NLogExampleProject.styles.css was not modified
+2024-01-30 17:05:58.6990|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /NLogExampleProject.styles.css
+2024-01-30 17:07:41.6904|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 17:07:42.0757|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /NLogExampleProject.styles.css was not modified
+2024-01-30 17:07:42.0757|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /NLogExampleProject.styles.css
+2024-01-30 17:08:24.5417|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 17:18:00.6071|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 17:18:01.2241|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /NLogExampleProject.styles.css was not modified
+2024-01-30 17:18:01.2241|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /NLogExampleProject.styles.css

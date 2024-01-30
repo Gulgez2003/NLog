@@ -1,0 +1,8 @@
+2024-01-30 16:51:18.1432|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)
+2024-01-30 16:53:37.3885|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)
+2024-01-30 16:54:28.2749|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)
+2024-01-30 16:59:30.6223|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)
+2024-01-30 17:05:56.8306|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)
+2024-01-30 17:07:41.3048|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)
+2024-01-30 17:08:09.1479|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)
+2024-01-30 17:17:59.4760|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)

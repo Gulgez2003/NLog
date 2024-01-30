@@ -1,0 +1,6 @@
+2024-01-30 18:00:34.0046|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Process.
+2024-01-30 18:00:34.0111|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Home/Process.cshtml' was found in 13.319ms.
+2024-01-30 18:00:34.2674|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Process executed in 275.0188ms.
+2024-01-30 18:57:26.0059|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Process.
+2024-01-30 18:57:26.1330|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Home/Process.cshtml' was found in 151.1792ms.
+2024-01-30 18:57:27.0852|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Process executed in 1111.7871ms.

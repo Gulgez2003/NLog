@@ -1,0 +1,12 @@
+2024-01-30 18:00:32.1621|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-30 18:00:32.1671|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {28b73f17-b0e8-4b49-88be-cc619bca1645}.
+2024-01-30 18:00:32.1671|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {7eea0013-4b6b-4be6-8289-9a081c629443}.
+2024-01-30 18:00:32.1671|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {e6221d4a-7c62-4449-ab12-11e308c672f6}.
+2024-01-30 18:00:32.1671|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {f0bcca73-a422-4c70-95c5-12af161f4a61}.
+2024-01-30 18:00:32.1671|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {f888e797-bcc7-4907-ad9d-5beaa52d1c56}.
+2024-01-30 18:57:21.8779|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-30 18:57:21.8871|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {28b73f17-b0e8-4b49-88be-cc619bca1645}.
+2024-01-30 18:57:21.8871|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {7eea0013-4b6b-4be6-8289-9a081c629443}.
+2024-01-30 18:57:21.8871|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {e6221d4a-7c62-4449-ab12-11e308c672f6}.
+2024-01-30 18:57:21.8871|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {f0bcca73-a422-4c70-95c5-12af161f4a61}.
+2024-01-30 18:57:21.8871|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {f888e797-bcc7-4907-ad9d-5beaa52d1c56}.

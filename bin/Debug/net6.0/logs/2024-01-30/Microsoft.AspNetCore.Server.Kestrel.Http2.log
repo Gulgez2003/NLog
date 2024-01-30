@@ -1,0 +1,8 @@
+2024-01-30 16:51:22.8152|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN11I8JIT2S9" is closed. The last processed stream ID was 0.
+2024-01-30 16:51:22.8152|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN11I8JIT2SA" is closed. The last processed stream ID was 1.
+2024-01-30 16:53:43.0519|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN11I9T3ALA7" is closed. The last processed stream ID was 19.
+2024-01-30 16:59:33.5927|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN11ID67V2N2" is closed. The last processed stream ID was 7.
+2024-01-30 17:05:59.6026|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN11IGPB4EGO" is closed. The last processed stream ID was 7.
+2024-01-30 17:07:44.3305|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN11IHOG4VVH" is closed. The last processed stream ID was 7.
+2024-01-30 17:08:29.3889|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN11II0QEHLQ" is closed. The last processed stream ID was 5.
+2024-01-30 17:18:05.4495|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HN11INGNLP6L" is closed. The last processed stream ID was 7.

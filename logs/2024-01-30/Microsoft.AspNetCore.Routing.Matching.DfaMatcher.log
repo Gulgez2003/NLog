@@ -1,0 +1,4 @@
+2024-01-30 18:00:33.8460|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/'
+2024-01-30 18:00:33.8644|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'NLogExampleProject.Controllers.HomeController.Process (NLogExampleProject)' with route pattern '{controller=Home}/{action=Process}/{id?}' is valid for the request path '/'
+2024-01-30 18:57:23.5771|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/'
+2024-01-30 18:57:25.0558|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'NLogExampleProject.Controllers.HomeController.Process (NLogExampleProject)' with route pattern '{controller=Home}/{action=Process}/{id?}' is valid for the request path '/'

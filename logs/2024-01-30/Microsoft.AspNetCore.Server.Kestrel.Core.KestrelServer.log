@@ -1,0 +1,2 @@
+2024-01-30 18:00:32.2629|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)
+2024-01-30 18:57:22.0462|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Using development certificate: CN=localhost (Thumbprint: F2DF98B7DBCAC94CDCDF26F073D87802DF90A933)

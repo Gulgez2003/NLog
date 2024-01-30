@@ -1,0 +1,2 @@
+2024-01-30 18:00:33.8644|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'NLogExampleProject.Controllers.HomeController.Process (NLogExampleProject)'
+2024-01-30 18:57:25.6081|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'NLogExampleProject.Controllers.HomeController.Process (NLogExampleProject)'

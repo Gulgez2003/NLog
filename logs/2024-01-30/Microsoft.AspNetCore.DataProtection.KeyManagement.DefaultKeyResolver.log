@@ -1,0 +1,2 @@
+2024-01-30 18:00:32.1812|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {f888e797-bcc7-4907-ad9d-5beaa52d1c56} with expiration date 2024-04-27 18:40:43Z as default key.
+2024-01-30 18:57:21.9031|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {f888e797-bcc7-4907-ad9d-5beaa52d1c56} with expiration date 2024-04-27 18:40:43Z as default key.

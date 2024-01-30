@@ -1,0 +1,2 @@
+2024-01-30 18:00:32.2010|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {f888e797-bcc7-4907-ad9d-5beaa52d1c56} as the default key.
+2024-01-30 18:57:21.9148|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {f888e797-bcc7-4907-ad9d-5beaa52d1c56} as the default key.

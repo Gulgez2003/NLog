@@ -1,0 +1,16 @@
+2024-01-30 18:00:33.7588|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 18:00:34.4581|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /NLogExampleProject.styles.css was not modified
+2024-01-30 18:00:34.4581|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /NLogExampleProject.styles.css
+2024-01-30 18:57:23.4167|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type
+2024-01-30 18:57:27.3415|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2024-01-30 18:57:27.3415|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2024-01-30 18:57:27.3415|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /lib/bootstrap/dist/js/bootstrap.bundle.min.js
+2024-01-30 18:57:27.3415|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /lib/bootstrap/dist/css/bootstrap.min.css
+2024-01-30 18:57:27.3415|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /css/site.css was not modified
+2024-01-30 18:57:27.3415|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /css/site.css
+2024-01-30 18:57:27.3415|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /NLogExampleProject.styles.css was not modified
+2024-01-30 18:57:27.3415|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /NLogExampleProject.styles.css
+2024-01-30 18:57:27.3415|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /js/site.js was not modified
+2024-01-30 18:57:27.3415|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /js/site.js
+2024-01-30 18:57:27.3415|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/jquery/dist/jquery.min.js was not modified
+2024-01-30 18:57:27.3415|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /lib/jquery/dist/jquery.min.js

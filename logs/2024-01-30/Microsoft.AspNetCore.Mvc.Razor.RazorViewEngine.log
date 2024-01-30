@@ -1,0 +1,4 @@
+2024-01-30 18:00:33.9851|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Process' in controller 'Home'.
+2024-01-30 18:00:34.0638|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_Layout' in controller 'Home'.
+2024-01-30 18:57:25.9782|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Process' in controller 'Home'.
+2024-01-30 18:57:26.2501|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_Layout' in controller 'Home'.

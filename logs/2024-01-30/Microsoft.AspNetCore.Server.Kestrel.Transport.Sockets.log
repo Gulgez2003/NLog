@@ -1,0 +1,12 @@
+2024-01-30 18:00:32.4546|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11JF9GTSU3" received FIN.
+2024-01-30 18:00:32.4546|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11JF9GTSU4" received FIN.
+2024-01-30 18:00:33.1927|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11JF9GTSU3" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-30 18:00:33.1927|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11JF9GTSU4" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-30 18:00:36.0434|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11JF9GTSU5" received FIN.
+2024-01-30 18:00:36.0434|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11JF9GTSU5" sending FIN because: "The client closed the connection."
+2024-01-30 18:57:22.3680|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11KF1NFVVH" received FIN.
+2024-01-30 18:57:22.3680|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11KF1NFVVG" received FIN.
+2024-01-30 18:57:22.5141|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11KF1NFVVH" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-30 18:57:22.5141|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11KF1NFVVG" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-30 18:57:31.9190|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11KF1NFVVI" received FIN.
+2024-01-30 18:57:31.9354|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN11KF1NFVVI" sending FIN because: "The client closed the connection."

@@ -1,0 +1,14 @@
+2024-01-30 18:00:33.9675|INFO|NLogExampleProject.Controllers.HomeController|Processing started
+2024-01-30 18:00:33.9675|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 0
+2024-01-30 18:00:33.9851|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 1
+2024-01-30 18:00:33.9851|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 2
+2024-01-30 18:00:33.9851|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 3
+2024-01-30 18:00:33.9851|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 4
+2024-01-30 18:00:33.9851|INFO|NLogExampleProject.Controllers.HomeController|Processing completed in 1 ms
+2024-01-30 18:57:25.9623|INFO|NLogExampleProject.Controllers.HomeController|Processing started
+2024-01-30 18:57:25.9623|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 0
+2024-01-30 18:57:25.9623|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 1
+2024-01-30 18:57:25.9623|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 2
+2024-01-30 18:57:25.9623|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 3
+2024-01-30 18:57:25.9623|DEBUG|NLogExampleProject.Controllers.HomeController|Processing iteration 4
+2024-01-30 18:57:25.9623|INFO|NLogExampleProject.Controllers.HomeController|Processing completed in 0 ms

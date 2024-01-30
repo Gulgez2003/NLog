@@ -1,0 +1,85 @@
+2024-01-30 16:51:18.2014|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly NLogExampleProject
+2024-01-30 16:51:18.2014|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-30 16:51:18.2014|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-01-30 16:51:20.8732|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/ - -
+2024-01-30 16:51:20.9869|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/ - - - 404 0 - 113.9090ms
+2024-01-30 16:53:37.4392|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly NLogExampleProject
+2024-01-30 16:53:37.4392|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-30 16:53:37.4392|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-01-30 16:53:39.0894|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/ - -
+2024-01-30 16:53:39.7333|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html;+charset=utf-8 651.7766ms
+2024-01-30 16:53:39.8488|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/lib/bootstrap/dist/css/bootstrap.min.css - -
+2024-01-30 16:53:39.8619|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - -
+2024-01-30 16:53:39.8619|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - -
+2024-01-30 16:53:39.8619|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/lib/jquery/dist/jquery.min.js - -
+2024-01-30 16:53:39.8619|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 200 230 application/javascript 3.0185ms
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - - - 200 1135 text/css 9.9241ms
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2024-01-30 16:53:39.8685|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.6889ms
+2024-01-30 16:53:39.8833|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 200 194 text/css 19.9891ms
+2024-01-30 16:53:39.8994|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 200 78468 application/javascript 33.2775ms
+2024-01-30 16:53:39.8994|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/lib/jquery/dist/jquery.min.js - - - 200 89476 application/javascript 40.7771ms
+2024-01-30 16:53:39.9618|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/lib/bootstrap/dist/css/bootstrap.min.css - - - 200 162720 text/css 113.2841ms
+2024-01-30 16:53:40.4479|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 574.9452ms
+2024-01-30 16:53:40.5530|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+2024-01-30 16:53:40.5876|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 200 5430 image/x-icon 35.0559ms
+2024-01-30 16:54:28.3615|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly NLogExampleProject
+2024-01-30 16:54:28.3708|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-30 16:54:28.3708|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-01-30 16:54:31.3832|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/ - -
+2024-01-30 16:59:30.6729|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly NLogExampleProject
+2024-01-30 16:59:30.6820|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-30 16:59:30.6820|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-01-30 16:59:31.9087|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/ - -
+2024-01-30 16:59:32.5930|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html;+charset=utf-8 693.1927ms
+2024-01-30 16:59:32.6789|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2024-01-30 16:59:32.6875|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 8.6463ms
+2024-01-30 16:59:32.6875|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - -
+2024-01-30 16:59:32.6875|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2024-01-30 16:59:32.7438|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - - - 304 - text/css 57.7317ms
+2024-01-30 16:59:32.8220|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 130.6932ms
+2024-01-30 17:05:56.8835|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly NLogExampleProject
+2024-01-30 17:05:56.8835|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-30 17:05:56.8835|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-01-30 17:05:57.7823|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/ - -
+2024-01-30 17:05:58.5931|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html;+charset=utf-8 812.9094ms
+2024-01-30 17:05:58.6451|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2024-01-30 17:05:58.6490|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - -
+2024-01-30 17:05:58.6490|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 7.2948ms
+2024-01-30 17:05:58.6950|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2024-01-30 17:05:58.6990|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - - - 304 - text/css 51.6416ms
+2024-01-30 17:05:58.8091|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 114.1014ms
+2024-01-30 17:07:41.3925|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly NLogExampleProject
+2024-01-30 17:07:41.3925|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-30 17:07:41.3925|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-01-30 17:07:41.6588|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/ - -
+2024-01-30 17:07:41.9692|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html;+charset=utf-8 317.2134ms
+2024-01-30 17:07:42.0453|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - -
+2024-01-30 17:07:42.0453|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2024-01-30 17:07:42.0453|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2024-01-30 17:07:42.0453|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 6.5001ms
+2024-01-30 17:07:42.0757|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - - - 304 - text/css 36.5549ms
+2024-01-30 17:07:42.0757|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.7697ms
+2024-01-30 17:08:09.2007|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly NLogExampleProject
+2024-01-30 17:08:09.2007|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-30 17:08:09.2007|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-01-30 17:08:24.4524|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/ - -
+2024-01-30 17:08:25.3682|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html;+charset=utf-8 923.7180ms
+2024-01-30 17:08:25.4456|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2024-01-30 17:08:25.4500|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2024-01-30 17:08:25.4500|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 10.3884ms
+2024-01-30 17:08:25.5381|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 88.0232ms
+2024-01-30 17:17:59.5201|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly NLogExampleProject
+2024-01-30 17:17:59.5258|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-30 17:17:59.5258|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-01-30 17:18:00.5415|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/ - -
+2024-01-30 17:18:01.0889|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html;+charset=utf-8 558.4148ms
+2024-01-30 17:18:01.1639|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2024-01-30 17:18:01.1653|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - -
+2024-01-30 17:18:01.1653|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2024-01-30 17:18:01.1653|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 6.9241ms
+2024-01-30 17:18:01.2286|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/NLogExampleProject.styles.css?v=0DGGky7ilgbaYBjM2H_vfAkxORWuB43d7FR8kHv9Mms - - - 304 - text/css 63.2290ms
+2024-01-30 17:18:01.2866|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 120.4667ms
